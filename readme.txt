@@ -13,26 +13,20 @@ WP NettiX Sync automatically imports data from NettiX sites like nettiauto.fi an
 
 == Description ==
 
-In Finland most car and boat sellers have their vehicles listed in the nettiauto.fi, nettivene.fi and similar services. Such sellers often also want to list those items on their own website as well. With this plugin one can import automatically all listings from the NettiX database.
+**DEPRECATION NOTICE:** NettiX Oy has shut down their API which this plugin was using. Therefore this plugin will stop working in August 2020 unless a major code rewrite is done.
 
-This plugin is fully open source and can be used for free anywhere.
-
-== Installation ==
-
-1. Download and activate the plugin.
-2. Define NETTIX_DEALERLIST or NETTIX_ADLIST in wp-admin
-3. Request NettiX to whitelist your server IP address and allow the import to happen.
-4. Installation done!
-
-== Frequently Asked Questions ==
-
-No FAQ section yet.
-
-== Screenshots ==
-
-1. Examples of settings screens
+Please contact sales@seravo.com if you want to fund development of the WP NettiX sync plugin.
 
 == Changelog ==
+
+= 2.2.1 =
+* Updated deprecation notice with instructions what to do if users are interested in continuing to use this plugin.
+
+= 2.2 =
+* Re-release plugin as it may work still until August 2020.
+
+= 2.1 =
+* Add deprecation notice as NettiX has shut down their API. This plugin cannot be used anymore.
 
 = 2.0 =
 * Release plugin as production quality and submit to WordPress.org
